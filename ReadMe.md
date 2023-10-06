@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student bio-informatics @ howest bruges
+Bioinformatician @ VIB
 
 
 ## 🌐 Socials:
